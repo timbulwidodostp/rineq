@@ -1,6 +1,8 @@
 # rineq
 A function to calculate the concentration index Statistical Analysis of Health Inequalities Use rineq (ci) With (In) R Software
 
+https://www.youtube.com/watch?v=Oujxj-0T4gE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
